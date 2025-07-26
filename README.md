@@ -21,7 +21,7 @@ This is a 512-byte minimalist bootloader written in x86 Assembly. It runs direct
 
 ---
 
-## 🚀 Build & Run
+## 🚀 Build & Run the Code
 
 ```bash
 make          # builds disk.img from bootloader.asm
